@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/Users/mrdenny/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3026452167.index
+/db_app_tutorial_java/src
